@@ -1,0 +1,16 @@
+@charset "UTF-8";
+/* CSS Document */
+p {
+	color: green;
+	font-family: Gotham, "Helvetica Neue", Helvetica, Arial, "sans-serif";
+	font-size: 16px;
+	line-height: 18px;
+	width: 600px;
+	background-color: azure;
+	padding: 20px;
+	
+}
+span {color: rgb(255, 0, 255;}
+body {
+	background-image: url("Slike/pozadina.jpeg");
+	background-color: aliceblue;
